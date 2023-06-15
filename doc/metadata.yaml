@@ -5,8 +5,8 @@ github_url: https://github.com/mlab-modules/ISL2902001
 homepage: false
 images:
 - doc/img/ISL2902001A_Detail_big.jpg
-- doc/img/ISL2902001A_top_big.jpg
 - doc/img/ISL2902001A_Detail_small.jpg
+- doc/img/ISL2902001A_top_big.jpg
 - doc/img/ISL2902001A_top_small.jpg
 - doc/img/ISL2902001A_QRcode.png
 mark: 50
