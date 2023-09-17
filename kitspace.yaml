@@ -5,4 +5,4 @@ eda:
   type: kicad
 gerbers: hw/cam_profi/
 site: https://github.com/mlab-modules/ISL2902001
-summary: null
+summary: Light sensor ISL29020 with I2C interface. Measurement range 0.015lux - 64.000lux.
