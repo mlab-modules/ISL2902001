@@ -3,6 +3,7 @@ github_branch: ISL2902001A
 github_repo: ISL2902001
 github_url: https://github.com/mlab-modules/ISL2902001
 homepage: false
+image_title: doc/img/ISL2902001A_top_small.jpg
 images:
 - doc/img/ISL2902001A_top_big.jpg
 - doc/img/ISL2902001A_Detail_big.jpg
